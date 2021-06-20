@@ -1,0 +1,67 @@
+
+a:link {
+  color: black;
+  background-color: cornsilk;
+  border: thin cornsilk solid;
+  padding: 2px;
+}
+a:visited {
+  color: black;
+}
+a:hover {
+  color: black;
+  }
+a:active {
+  color: black;
+}
+.picture{
+  height:700px;
+  width:550px;
+}
+.backgrounds {
+background-image: url('images/000067000013.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+.div1, .div2{
+  border: 3px seagreen solid;
+  border-radius: 15%;
+  padding-top: 5px;
+  padding-bottom: 1px;
+  background-color: cornsilk
+}
+.div1{
+  width: 200px;
+  height: 50px;
+}
+.div2{
+  width: 200px;
+  height: 50px;
+}
+.navbar{
+  display: block;
+  background-color: seagreen;
+}
+.navbar a{
+  float: right;
+  text-align: center;
+  margin: 0;
+  width: 200px;
+  padding: 14px 16px;
+}
+.picture2{
+  float: right;
+  height:250px;
+  width:200px;
+}
+.picture3{
+  float: right;
+  height:550px;
+  width:450px;
+}
+.container{
+    border: 2px seagreen solid;
+    background-color: seagreen;
+    float: left;
+  }
