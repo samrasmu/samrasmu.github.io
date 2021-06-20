@@ -19,7 +19,7 @@ a:active {
   width:550px;
 }
 .backgrounds {
-background-image: url('images/000067000013.jpg');
+background-color: white;
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: cover;
