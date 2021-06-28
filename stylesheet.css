@@ -14,10 +14,6 @@ a:hover {
 a:active {
   color: black;
 }
-.picture{
-  height:700px;
-  width:550px;
-}
 .backgrounds {
 background-color: white;
 background-repeat: no-repeat;
@@ -49,14 +45,4 @@ background-size: cover;
   margin: 0;
   width: 200px;
   padding: 14px 16px;
-}
-.picture2{
-  float: right;
-  height:250px;
-  width:200px;
-}
-.picture3{
-  float: right;
-  height:550px;
-  width:450px;
 }
