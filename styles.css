@@ -8,6 +8,10 @@ background-size: cover;
   float: center;
   text-align: center;
 }
+h2{
+  float: center;
+  text-align: center;
+}
 .sidebar{
   text-align: center;
 }
