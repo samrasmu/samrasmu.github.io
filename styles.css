@@ -9,7 +9,7 @@ background-size: cover;
   height: 50px;
 }
 .sidebar{
-  height: 250px;
+  align-items: center;
   text-align: center;
 }
 .sidebar a{
