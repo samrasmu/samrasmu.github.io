@@ -5,6 +5,7 @@ background-attachment: fixed;
 background-size: cover;
 }
 .div1{
+  float: center;
   text-align: center;
 }
 .sidebar{
