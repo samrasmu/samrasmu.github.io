@@ -29,7 +29,11 @@ a:link {
 a:visited {
   text-decoration: none;
 }
+.headshot{
+  height: 367px;
+  width: 324px;
 }
+
 .footer {
   text-align: center;
   background-color: grey;
