@@ -5,6 +5,8 @@ background-attachment: fixed;
 background-size: cover;
 }
 .name{
+  font-family: 'Courier New';
+  font-size: 35px;
   position: absolute;
   top:8px;
   left:16px;
