@@ -32,6 +32,8 @@ a:visited {
   text-decoration: none;
 }
 .headshot{
+  position: relative;
+  text-align: center;
   display: block;
   margin-left: auto;
   margin-right: auto;
