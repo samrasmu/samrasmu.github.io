@@ -5,7 +5,7 @@ background-attachment: fixed;
 background-size: cover;
 }
 .div1{
-  font-size: 200px;
+  font-size: 150px;
   float: center;
   text-align: center;
 }
@@ -20,7 +20,7 @@ h2{
   float: center;
   color: black;
   text-align: center;
-  font-size: 40px;
+  font-size: 35px;
   text-decoration: none;
 }
 a:link {
