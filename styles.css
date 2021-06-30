@@ -7,7 +7,7 @@ background-size: cover;
 .name{
   font-family: 'Courier New';
   font-size: 60px;
-  position: absolute;
+  position: fixed;
   top:5%;
   left:55%;
   transform: translate(-50%, -50%);
@@ -15,7 +15,7 @@ background-size: cover;
 .lastname{
   font-family: 'Courier New';
   font-size: 60px;
-  position: absolute;
+  position: fixed;
   top: 20%;
   left: 100%;
   transform: translate(-50%, -50%);
