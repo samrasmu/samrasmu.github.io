@@ -11,6 +11,14 @@ background-size: cover;
   top:8px;
   left:16px;
 }
+.lastname{
+  font-family: 'Courier New';
+  font-size: 40px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
 h2{
   float: center;
   text-align: center;
