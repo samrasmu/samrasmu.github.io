@@ -29,15 +29,11 @@ a:link {
 a:visited {
   text-decoration: none;
 }
-img{
+.headshot{
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-  opacity: 0.5;
-}
-img:hover{
-  opacity: 1.0;
 }
 .footer {
   text-align: center;
