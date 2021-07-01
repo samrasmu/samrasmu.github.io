@@ -1,5 +1,5 @@
 body {
- background-image: url("images/personal_website_background@2x.png");
+ background-image: url("images/background_image@2x.png");
 }
 
 .backgrounds {
@@ -12,7 +12,7 @@ background-size: cover;
   font-family: 'Courier New';
   font-size: 60px;
   position: fixed;
-  top:20%;
+  top:40%;
   left:50%;
   transform: translate(-50%, -50%);
 }
@@ -20,8 +20,8 @@ background-size: cover;
   font-family: 'Courier New';
   font-size: 60px;
   position: fixed;
-  top: 30%;
-  left: 80%;
+  top: 50%;
+  left: 40%;
   transform: translate(-50%, -50%);
 }
 h2{
