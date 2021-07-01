@@ -8,22 +8,6 @@ background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: cover;
 }
-.name{
-  font-family: 'Courier New';
-  font-size: 60px;
-  position: fixed;
-  top:40%;
-  left:50%;
-  transform: translate(-50%, -50%);
-}
-.lastname{
-  font-family: 'Courier New';
-  font-size: 60px;
-  position: fixed;
-  top: 50%;
-  left: 40%;
-  transform: translate(-50%, -50%);
-}
 h2{
   float: center;
   text-align: center;
