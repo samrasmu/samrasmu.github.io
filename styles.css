@@ -8,16 +8,6 @@ background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: cover;
 }
-h2{
-  float: center;
-  text-align: center;
-}
-.sidebar{
-  position: fixed;
-  text-align: center;
-  right: 20%;
-  bottom:30%;
-}
 .sidebar a{
   position: fixed;
   float: center;
@@ -25,6 +15,8 @@ h2{
   text-align: center;
   font-size: 35px;
   text-decoration: none;
+  right: 20%;
+  bottom:30%;
 }
 a:link {
   text-decoration: none;
@@ -32,14 +24,6 @@ a:link {
 
 a:visited {
   text-decoration: none;
-}
-.headshot{
-  position: relative;
-  text-align: center;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
 }
 .footer {
   position: fixed;
