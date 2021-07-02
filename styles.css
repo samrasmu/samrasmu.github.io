@@ -9,6 +9,7 @@ background-attachment: fixed;
 background-size: cover;
 }
 .sidebar a{
+  text-align: center;
   position: absolute;
   top: 10%;
   right: 50%%;
