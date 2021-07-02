@@ -8,13 +8,15 @@ background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: cover;
 }
-.sidebar a{
+.sidebar{
   position: absolute;
   top: 0.5em;
   left: 0;
   width: 100%;
   margin:0;
   text-align: center;
+}
+.sidebar a{
   color: black;
   font-size: 35px;
   text-decoration: none;
