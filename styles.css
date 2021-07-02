@@ -9,7 +9,6 @@ background-attachment: fixed;
 background-size: cover;
 }
 .sidebar a{
-  position: fixed;
   float: center;
   color: black;
   text-align: center;
