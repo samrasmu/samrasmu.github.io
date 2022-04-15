@@ -29,12 +29,26 @@
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .container {
-  position: relative;
-  width: 100%;
-  max-width: 960px;
-  margin: 0 auto;
-  padding: 0 20px;
-  box-sizing: border-box; }
+  margin-top: 50px;
+ }
+  
+ #nav {
+  margin: 13px 0 0 0;
+ }
+  
+ #nav ul li {
+  display: inline;
+  margin: 0 20px 0 0;
+  margin-bottom: 130px;
+ }
+  
+ #nav a {
+  text-decoration: none;
+ }
+  
+ #nav a:hover {
+  text-decoration: underline;
+ }
 .column,
 .columns {
   width: 100%;
