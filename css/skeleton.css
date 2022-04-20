@@ -34,6 +34,7 @@
   
  #nav {
   margin: 13px 0 0 0;
+  
  }
   
  #nav ul li {
@@ -50,6 +51,7 @@
   
  #nav a:hover {
   text-decoration: underline;
+  text-decoration-color: #9DBA94;
  }
 .column,
 .columns {
